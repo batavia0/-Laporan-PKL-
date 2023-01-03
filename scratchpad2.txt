@@ -1,0 +1,30 @@
+Praktek Kerja Lapangan (PKL) adalah kegiatan yang dilakukan oleh mahasiswa perguruan tinggi di tempat kerja atau instansi terkait dengan bidang studi yang diambil oleh mahasiswa tersebut. Selain itu PKL merupakan salah satu kegiatan akademik yang wajib diikuti mahasiswa semester 5 di Politeknik Negeri Subang. Selama PKL, mahasiswa dibimbing oleh seorang dosen pembimbing yang ditunjuk oleh institusi pendidikan, serta seorang pembimbing di tempat kerja yang bertugas untuk membantu dan memberikan arahan kepada mahasiswa. Mahasiswa juga diharapkan untuk melakukan kegiatan yang sesuai dengan bidang studi yang diambil, seperti melakukan riset, mengikuti kegiatan rutin di tempat kerja, atau menyelesaikan proyek tertentu. Adapun Tujuan dari PKL adalah untuk memberikan pengalaman langsung bagi mahasiswa dalam mengaplikasikan teori yang dipelajari di kelas ke dalam konteks nyata kerja. Selain itu, PKL juga bertujuan untuk membantu mahasiswa mempersiapkan diri untuk masuk ke dunia kerja setelah lulus dari perguruan tinggi.
+	
+
+
+http://localhost/onepiece/uplink_apps/pandu/surat_muatan/sm_others/report_smu
+
+PT ODISYS INDONESIA
+
+Untuk membuat abstrak, pertama-tama Anda perlu memahami apa yang dimaksud dengan abstrak. Abstrak adalah ringkasan singkat dari sebuah tulisan atau dokumen yang menyajikan informasi utama yang terkandung dalam tulisan tersebut. Abstrak biasanya digunakan untuk memberikan gambaran umum tentang isi tulisan atau dokumen, sehingga orang lain dapat menentukan apakah tulisan tersebut sesuai dengan minat atau kebutuhan mereka.
+
+Berikut adalah langkah-langkah yang dapat Anda ikuti untuk membuat abstrak:
+
+Baca tulisan atau dokumen secara keseluruhan. Ini akan membantu Anda memahami konteks dan ide utama yang terkandung dalam tulisan tersebut.
+
+Tentukan tujuan dan sasaran dari tulisan. Ini akan membantu Anda menentukan apa yang perlu Anda sampaikan dalam abstrak.
+
+Pilih informasi yang paling penting dan relevan untuk disajikan dalam abstrak. Anda hanya perlu menyajikan informasi yang paling esensial dan menjelaskan secara singkat apa yang Anda tulis dalam tulisan tersebut.
+
+Buat ringkasan dari informasi yang telah Anda pilih. Buat paragraf yang singkat dan jelas yang menjelaskan secara ringkas isi tulisan tersebut.
+
+Pastikan bahwa abstrak Anda memenuhi syarat-syarat yang ditentukan. Abstrak biasanya harus memiliki panjang tertentu, misalnya 150-250 kata. Pastikan juga bahwa abstrak Anda menggunakan tata bahasa yang benar dan mudah dipahami.
+
+Periksa dan perbaiki abstrak Anda. Pastikan bahwa abstrak Anda tidak mengandung kesalahan dan mudah dipahami oleh orang lain.
+
+Semoga membantu!
+
+Pekerjaan Software Quality Assurance harus mempunyai tanggung jawab dalam melakukan perencanaan kualitas, kesalahan, analisis, dan proses pelaporan yang nantinya akan berdampak terhadap kualitas darisuatu produk perangkat lunak milik perusahaan.
+Maintainability
+
+berpotensi mengurangi bugs, mitigasi

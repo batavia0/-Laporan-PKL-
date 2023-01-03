@@ -1,0 +1,11 @@
+PT Acak Solusi Odisys merupakan sebuah perusahaan yang menawarkan solusi Logistik dengan teknologi informasi. Perusahaan ini dapat mengelola, mengoptimalkan rute pengiriman, mengidentifikasi kebutuhan pengiriman, menentukan harga pengiriman optimal, serta memantau kondisi barang yang dikirim melalui real-time tracking baik melalui jalur darat,udara atau laut. Dengan menggunakan teknologi yang terus up to date, PT Acak Solusi Odisys terverifikasi memberi layanan yang lebih cepat, efisien, dan terpercaya bagi pelanggannya. Dalam Praktik Kerja Lapangan ini penulis mengkaji pada bagian 
+
+
+pertumbuhan e-commerce yang tumbuh pesat di saat ini di Indonesia 
+
+
+Implementasi software quality assurance (SQA) pada perusahaan teknologi logistik merupakan langkah penting untuk menjamin bahwa sistem perangkat lunak yang dikembangkan dan digunakan oleh perusahaan tersebut memenuhi standar kualitas yang ditetapkan. SQA terdiri dari sekumpulan proses dan aktivitas yang bertujuan untuk memastikan bahwa sistem perangkat lunak yang dikembangkan memenuhi spesifikasi yang ditetapkan, bekerja dengan baik, dan sesuai dengan kebutuhan pengguna. Implementasi SQA dapat membantu perusahaan teknologi logistik dalam mengelola proyek pengembangan sistem perangkat lunak dengan lebih efektif, meningkatkan kualitas produk yang dihasilkan, dan mengurangi risiko kegagalan sistem perangkat lunak. SQA juga dapat membantu perusahaan dalam mengelola aspek-aspek kualitas sistem perangkat lunak seperti keandalan, keamanan, dan kepatuhan terhadap standar industri yang berlaku. Dengan demikian, implementasi SQA merupakan bagian penting dari strategi keseluruhan perusahaan teknologi logistik dalam mengelola sistem perangkat lunak yang berkualitas.
+
+
+
+"E:\202109__""E:\202110__""E:\202111__""E:\202111_a""E:\202112__""E:\202201__""E:\202202__""E:\202203__""E:\202204__""E:\202205__""E:\202206__""E:\202207__"
