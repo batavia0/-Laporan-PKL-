@@ -31,3 +31,13 @@ berpotensi mengurangi bugs, mitigasi
 
 
 Sebagai tanggung jawab, saya telah mengerjakan beberapa proyek yang berbeda dalam bidang pengembangan aplikasi web. Proyek pertama yang saya kerjakan adalah KUMIS APP, yang dikembangkan menggunakan framework Laravel 9x. Proyek ini merupakan aplikasi e-commerce yang menyediakan beragam produk kosmetik yang dapat dibeli oleh pengguna. Selain itu, aplikasi ini juga dilengkapi dengan fitur seperti sistem pembayaran online, sistem pengiriman, dan laporan penjualan. Proyek kedua yang saya kerjakan adalah Pandu Logistics, yang dikembangkan menggunakan framework Codegniter 3. Proyek ini merupakan aplikasi yang digunakan untuk mengelola proses logistik dari suatu perusahaan. Aplikasi ini dilengkapi dengan fitur seperti pembuatan laporan, pembuatan invoice, dan pembuatan surat jalan. Terakhir, saya juga mengerjakan proyek KLOG yang dimilikki oleh Kamadjaja Logistics, yang dikembangkan menggunakan framework Laravel 8x. Proyek ini merupakan aplikasi yang digunakan untuk penilaian karyawan yang dilengkapi dengan fitur seperti laporan penilaian kinerja, sistem evaluasi kinerja, dan sistem pengembangan karyawan.
+
+Task Laporan PKL
+• Sejarah PT ODISYS INDONESIA
+• Struktur Organisasi Perusahaan
+• Kegiatan PT ODISYS INDONESIa
+
+// Ini link untuk melihat scribd secara gratis
+https://www.scribd.com/embeds/469134852/content?start_page=1view_mode=scroll&access_key=key-fFexxf7r1bzEfWu3HKwf
+
+Memahami kebutuhan, mengatasi masalah dan memenuhi harapan klien.
